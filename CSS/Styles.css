@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: white;
+  width: 5%;
+  border-width: 10px;
+}
+
+h1,
+h3 {
+  color: #295f98;
+}
+
+p,
+ol,
+ul,
+table {
+  color: #674636;
+}
